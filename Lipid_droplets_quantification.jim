@@ -1,6 +1,6 @@
 # Fiji macro to quantify green lipid droplets from image
 
-macro "Liquid_droplets_dev [8]"
+macro "Lipid_droplets_dev [8]"
 {
 	title = getTitle();
 	filename_clean = File.nameWithoutExtension();
